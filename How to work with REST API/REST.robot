@@ -1,4 +1,5 @@
 *** Settings ***
+Test Timeout      1 minute    Case Time out
 Library           Collections
 Library           RequestsLibrary
 
